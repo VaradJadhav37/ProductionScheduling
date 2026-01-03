@@ -1,0 +1,21 @@
+streamlit>=1.29.0
+
+# LangGraph + LangChain
+langgraph>=0.0.60
+langchain>=0.1.20
+langchain-core>=0.1.45
+langchain-groq>=0.1.5
+
+# LLM / config
+pydantic>=2.5.0
+python-dotenv>=1.0.0
+
+# Optimization
+ortools>=9.7.2996
+
+# Visualization
+plotly>=5.18.0
+pandas>=2.1.0
+
+# Utilities
+typing-extensions>=4.8.0
